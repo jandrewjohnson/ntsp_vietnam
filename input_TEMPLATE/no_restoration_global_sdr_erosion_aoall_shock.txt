@@ -1,0 +1,1 @@
+shock aoall(ACTS,REG) = file <^intermediate_dir^>\erosion_shock_har\no_restoration_global_sdr_erosion_aoall_shock_<^ending_year^>.har header "EROS";
